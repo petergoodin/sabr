@@ -1,0 +1,12 @@
+Can use regex to match partial strings in scan_list.csv to directory names.
+
+
+
+anat: sub-<participant_label>[_ses-<session_label>][_acq-<label>][_ce-<label>][_rec-<label>][_run-<index>]_<modality_label>.nii[.gz]
+func: sub-<participant_label>[_ses-<session_label>]_task-<task_label>[_acq-<label>][_rec-<label>][_run-<index>][_echo-<index>]_bold.nii[.gz]
+dwi: sub-<participant_label>[_ses-<session_label>][_acq-<label>][_run-<index>]_dwi.nii[.gz]
+fmap: sub-<label>[_ses-<session_label>][_acq-<label>][_run-<run_index>]_image.nii[.gz]
+
+
+
+

@@ -1,0 +1,6 @@
+scan_match,scan_type,scan_acq,scan_filename
+T1_MEMPRAGE_WIP900C_VE11C_COMBECHO_*,anat,None,T1w
+MEMPRAGE_WIP900_AA_COMBECHO_0*,anat,None,T1w
+MEMPRAGE_WIP900B_COMBECHO_0*,anat,None,T1w
+T1_MPRAGE_SAG_P2_1_0_ISO_0002,anat,None,T1w
+EP2D_P2_3MM_RESTING_STATE*,func,None,rest

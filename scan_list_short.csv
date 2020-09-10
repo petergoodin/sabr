@@ -1,0 +1,9 @@
+scan_match,scan_type,scan_filename
+t1_mpr_1mm_iso_qk,anat,T1w
+LT_HAND_+_30DEG,func,tactileTaskLeft
+LT_HAND_+_30DEG_REPEAT_XXXX,func,tactileTaskLeftRepeat
+RT_HAND_+_30DEG,func,tactileTaskRight
+RT_HAND_+_30DEG_REPEAT_XXXX,func,tactileTaskRightRepeat
+RESTING+_30DEG_7mins,func,rest
+diff60_b3000_2.5_(*),dwi,dwi
+SPACE_3D_T2_FLAIR,anat,FLAIR
